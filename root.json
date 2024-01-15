@@ -1,0 +1,474 @@
+{
+    "person" : {
+        "name" : "Phạm Văn Đễ",
+        "gender" : "M"
+    }, 
+    "spouse" : {
+        "name" : "Triệu Thị Từ",
+        "gender" : "F"
+    },
+    "children" : [
+        {
+            "person" : {
+                "name" : "Phạm Văn Nghệ",
+                "gender" : "M"
+            }, 
+            "spouse" : {
+                "name" : "Đỗ Thị Kiềm",
+                "gender" : "F"
+            },
+            "children" : [
+                {
+                    "person" : {
+                        "name" : "Phạm Văn Lâm",
+                        "gender": "M"
+                    },
+                    "spouse" : {
+                        "name" : "Nguyễn Thị Kim Quý",
+                        "gender": "F"
+                    },
+                    "children" : [
+                        {
+                            "person" : {
+                                "name" : "Phạm Thanh Liêm",
+                                "gender" : "M"
+                            }, 
+                            "spouse" : {
+                                "name" : "Trần Ngọc Diệp",
+                                "gender" : "F"
+                            },
+                            "children" : [
+                                {
+                                    "person" : {
+                                        "name" : "Phạm Thanh Ngọc",
+                                        "gender" : "F"
+                                    }
+                                },
+                                {
+                                    "person" : {
+                                        "name" : "Phạm Đàm Quân",
+                                        "gender": "M"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "person" : {
+                                "name" : "Phạm Thanh Khiết",
+                                "gender" : "M"
+                            }, 
+                            "spouse" : {
+                                "name" : "Hoàng Anh Phước",
+                                "gender" : "F"
+                            },
+                            "children" : [
+                                {
+                                    "person" : {
+                                        "name" : "Phạm Hà Trang",
+                                        "gender" : "F"
+                                    }
+                                },
+                                {
+                                    "person" : {
+                                        "name" : "Phạm Bảo Quyên",
+                                        "gender" : "F"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "person" : {
+                        "name" : "Phạm Thị Luyến",
+                        "gender" : "F"
+                    }
+                },
+                {
+                    "person" : {
+                        "name" : "Phạm Văn Thanh",
+                        "gender" : "M"
+                    }
+                },
+                {
+                    "person" : {
+                        "name" : "Phạm Văn Minh",
+                        "gender" : "M"
+                    }, 
+                    "spouse" : {
+                        "name" : "Nguyễn Thị Bình",
+                        "gender" : "F"
+                    },
+                    "children" : [
+                        {
+                            "person" : {
+                                "name" : "Phạm Tùng Anh",
+                                "gender" : "F"
+                            }, 
+                            "spouse" : {
+                                "name" : "Nguyễn Trường Giang",
+                                "gender" : "M"
+                            },
+                            "children" : [
+                                {
+                                    "person" : {
+                                        "name" : "Nguyễn Thăng Long",
+                                        "gender" : "M"
+                                    }
+                                },
+                                {
+                                    "person" : {
+                                        "name" : "Phạm Thanh Nga",
+                                        "gender" : "F"
+                                    }
+                                },
+                                {
+                                    "person" : {
+                                        "name" : "Nguyễn Thanh Mai",
+                                        "gender": "F"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "person" : {
+                                "name" : "Phạm Hoàng Linh",
+                                "gender" : "M"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "person" : {
+                        "name" : "Phạm Thị Liên",
+                        "gender" : "F"
+                    }, 
+                    "spouse" : {
+                        "name" : "Bùi Văn Hồng",
+                        "gender" : "M"
+                    },
+                    "children" : [
+                        {
+                            "person" : {
+                                "name" : "Bùi Hồng Phúc",
+                                "gender" : "M"
+                            },
+                            "spouse" : {
+                                "name": "Nguyễn Thị Ngọc Anh",
+                                "gender": "F"
+                            }
+                        },
+                        {
+                            "person" : {
+                                "name" : "Bùi Minh Đức",
+                                "gender" : "M"
+                            },
+                            "spouse" : {
+                                "name": "Tiêu Thu Hường",
+                                "gender" : "F"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "person" : {
+                        "name" : "Phạm Văn Thuỷ",
+                        "gender" : "M"
+                    }, 
+                    "spouse" : {
+                        "name" : "Nguyễn Thị Thu Hằng",
+                        "gender" : "F"
+                    },
+                    "children" : [
+                        {
+                            "person" : {
+                                "name" : "Phạm Hoài Thu",
+                                "gender" : "F"
+                            },
+                            "spouse" : {
+                                "name" : "Phan Anh Tuấn",
+                                "gender" : "M"
+                            }
+                        },
+                        {
+                            "person" : {
+                                "name" : "Phạm Thu Hà",
+                                "gender" : "F"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "person" : {
+                        "name" : "Phạm Văn Sơn",
+                        "gender" : "M"
+                    }, 
+                    "spouse" : {
+                        "name" : "Đỗ Thị Thu Hằng",
+                        "gender" : "F"
+                    },
+                    "children" : [
+                        {
+                            "person" : {
+                                "name" : "Phạm Sơn Hải",
+                                "gender" : "M"
+                            }
+                        },
+                        {
+                            "person" : {
+                                "name" : "Phạm Thu Phương",
+                                "gender" : "F"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "person" : {
+                "name" : "Phạm Văn Nghề",
+                "gender" : "M"
+            }
+        },
+        {
+            "person" : {
+                "name" : "Phạm Thị Huệ",
+                "gender" : "F"
+            }, 
+            "spouse" : {
+                "name" : "Trịnh Hữu Dũng",
+                "gender" : "M"
+            },
+            "children" : [
+                {
+                    "person" : {
+                        "name" : "Trịnh Thị Dĩnh",
+                        "gender" : "F"
+                    }
+                },
+                {
+                    "person" : {
+                        "name" : "Trịnh Thị Dung",
+                        "gender" : "F"
+                    }
+                },
+                {
+                    "person" : {
+                        "name" : "Trịnh Văn Dục",
+                        "gender" : "M"
+                    }
+                },
+                {
+                    "person" : {
+                        "name" : "Trịnh Văn Dụ",
+                        "gender": "M"
+                    }
+                },
+                {
+                    "person" : {
+                        "name" : "Trịnh Thị Dịu",
+                        "gender" : "F"
+                    }
+                },
+                {
+                    "person" : {
+                        "name" : "Trịnh Thị Hoa",
+                        "gender" : "F"
+                    }
+                },
+                {
+                    "person" : {
+                        "name" : "Trịnh Thị Hồng",
+                        "gender" : "F"
+                    }
+                },
+                {
+                    "person" : {
+                        "name" : "Trịnh Thị Thắm",
+                        "gender" : "F"
+                    }
+                },
+                {
+                    "person" : {
+                        "name" : "Trịnh Thị Liễu",
+                        "gender" : "F"
+                    }
+                },
+                {
+                    "person" : {
+                        "name" : "Trịnh Thị Đào",
+                        "gender" : "F"
+                    }
+                }
+            ]
+        },
+        {
+            "person" : {
+                "name" : "Phạm Thị Gái",
+                "gender" : "F"
+            }, 
+            "spouse" : {
+                "name" : "Nguyễn Văn Với",
+                "gender" : "M"
+            },
+            "children" : [
+                {
+                    "person" : {
+                        "name" : "Nguyễn Thị Mùi",
+                        "gender" : "F"
+                    }
+                },
+                {
+                    "person" : {
+                        "name" : "Nguyễn Xuân Dục",
+                        "gender" : "M"
+                    }
+                },
+                {
+                    "person" : {
+                        "name" : "Nguyễn Ngọc Ninh",
+                        "gender" : "F"
+                    }
+                },
+                {
+                    "person" : {
+                        "name" : "Nguyễn Thị Thịnh",
+                        "gender": "F"
+                    }
+                },
+                {
+                    "person" : {
+                        "name" : "Nguyễn Văn Vượng",
+                        "gender" : "M"
+                    }
+                },
+                {
+                    "person" : {
+                        "name" : "Nguyễn Thị Phượng",
+                        "gender" : "F"
+                    }
+                },
+                {
+                    "person" : {
+                        "name" : "Nguyễn Thị Thu",
+                        "gender" : "F"
+                    }
+                },
+                {
+                    "person" : {
+                        "name" : "Nguyễn Thị The",
+                        "gender" : "F"
+                    }
+                }
+            ]
+        },
+        {
+            "person" : {
+                "name" : "Phạm Thị Định",
+                "gender" : "F"
+            }
+        },
+        {
+            "person" : {
+                "name" : "Phạm Văn Liệu",
+                "gender" : "M"
+            }, 
+            "spouse" : {
+                "name" : "Trần Thị Nghĩa",
+                "gender" : "F"
+            },
+            "children" : [
+                {
+                    "person" : {
+                        "name" : "Phạm Văn Tuấn",
+                        "gender" : "M"
+                    }, 
+                    "spouse" : {
+                        "name" : "Trần Thị Bích Hằng",
+                        "gender" : "F"
+                    },
+                    "children" : [
+                        {
+                            "person" : {
+                                "name" : "Phạm Tuấn Phong",
+                                "gender" : "M"
+                            }, 
+                            "spouse" : {
+                                "name" : "Hoàng Thanh Hiếu",
+                                "gender" : "F"
+                            },
+                            "children" : [
+                                {
+                                    "person" : {
+                                        "name" : "Phạm Hoàng Trúc Linh",
+                                        "gender" : "F"
+                                    }
+                                },
+                                {
+                                    "person" : {
+                                        "name": "Phạm Hoàng Tú Linh",
+                                        "gender" : "F"
+                                    }
+                                },
+                                {
+                                    "person" : {
+                                        "name": "Phạm Hoàng Thảo Linh",
+                                        "gender": "F"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "person" : {
+                                "name" : "Phạm Tuấn Phú",
+                                "gender" : "M"
+                            },
+                            "spouse" : {
+                                "name" : "Nguyễn Thị Thuý",
+                                "gender" : "F"
+                            },
+                            "children" : [
+                                {
+                                    "person" : {
+                                        "name" : "Phạm Nguyễn Thảo Nguyên",
+                                        "gender" : "F"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "person" : {
+                        "name" : "Phạm Thị Hằng",
+                        "gender" : "F"
+                    },
+                    "spouse" : {
+                        "name" : "Trần Văn Thắng",
+                        "gender" : "M"
+                    },
+                    "children" : [
+                        {
+                            "person" : {
+                                "name" : "Trần Thị Mỹ Hạnh",
+                                "gender" : "F"
+                            }
+                        },
+                        {
+                            "person" : {
+                                "name" : "Trần Minh Đức",
+                                "gender" : "M"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "person" : {
+                "name" : "Phạm Văn Lục",
+                "gender" : "M"
+            }
+        }
+    ]
+}
