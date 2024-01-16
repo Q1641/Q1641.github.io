@@ -1,0 +1,1 @@
+import{_ as r,c as o,t as a,o as s}from"./index-QCn7Zjke.js";const t={};function n(e,c){return s(),o("h1",null,"Person with id "+a(e.$route.params.id)+" and named "+a(e.$route.params.slug),1)}const l=r(t,[["render",n]]);export{l as default};
