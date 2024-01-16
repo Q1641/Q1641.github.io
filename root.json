@@ -1,53 +1,73 @@
 {
     "person" : {
         "name" : "Phạm Văn Đễ",
-        "gender" : "M"
+        "gender" : "M",
+        "id" : 1001,
+        "slug" : "pham-van-de"
     }, 
     "spouse" : {
         "name" : "Triệu Thị Từ",
-        "gender" : "F"
+        "gender" : "F",
+        "id" : 2001,
+        "slug" : "trieu-thi-tu"
     },
     "children" : [
         {
             "person" : {
                 "name" : "Phạm Văn Nghệ",
-                "gender" : "M"
+                "gender" : "M",
+                "id" : 1002,
+                "slug" : "pham-van-nghe"
             }, 
             "spouse" : {
                 "name" : "Đỗ Thị Kiềm",
-                "gender" : "F"
+                "gender" : "F",
+                "id" : 2002,
+                "slug" : "do-thi-kiem"
             },
             "children" : [
                 {
                     "person" : {
                         "name" : "Phạm Văn Lâm",
-                        "gender": "M"
+                        "gender": "M",
+                        "id" : 1003,
+                        "slug" : "pham-van-lam"
                     },
                     "spouse" : {
                         "name" : "Nguyễn Thị Kim Quý",
-                        "gender": "F"
+                        "gender": "F",
+                        "id" : 2003,
+                        "slug" : "nguyen-thi-kim-quy"
                     },
                     "children" : [
                         {
                             "person" : {
                                 "name" : "Phạm Thanh Liêm",
-                                "gender" : "M"
+                                "gender" : "M",
+                                "id" : 1004,
+                                "slug" : "pham-thanh-liem"
                             }, 
                             "spouse" : {
                                 "name" : "Trần Ngọc Diệp",
-                                "gender" : "F"
+                                "gender" : "F",
+                                "id" : 2004,
+                                "slug" : "tran-ngoc-diep"
                             },
                             "children" : [
                                 {
                                     "person" : {
                                         "name" : "Phạm Thanh Ngọc",
-                                        "gender" : "F"
+                                        "gender" : "F",
+                                        "id" : 1005,
+                                        "slug" : "pham-thanh-ngoc"
                                     }
                                 },
                                 {
                                     "person" : {
                                         "name" : "Phạm Đàm Quân",
-                                        "gender": "M"
+                                        "gender": "M",
+                                        "id" : 1006,
+                                        "slug" : "pham-dam-quan"
                                     }
                                 }
                             ]
@@ -55,23 +75,31 @@
                         {
                             "person" : {
                                 "name" : "Phạm Thanh Khiết",
-                                "gender" : "M"
+                                "gender" : "M",
+                                "id" : 1007,
+                                "slug" : "pham-thanh-khiet"
                             }, 
                             "spouse" : {
                                 "name" : "Hoàng Anh Phước",
-                                "gender" : "F"
+                                "gender" : "F",
+                                "id" : 2005,
+                                "slug" : "hoang-anh-phuoc"
                             },
                             "children" : [
                                 {
                                     "person" : {
                                         "name" : "Phạm Hà Trang",
-                                        "gender" : "F"
+                                        "gender" : "F",
+                                        "id" : 1008,
+                                        "slug" : "trieu-thi-tu"
                                     }
                                 },
                                 {
                                     "person" : {
                                         "name" : "Phạm Bảo Quyên",
-                                        "gender" : "F"
+                                        "gender" : "F",
+                                        "id" : 1009,
+                                        "slug" : "trieu-thi-tu"
                                     }
                                 }
                             ]
@@ -81,51 +109,69 @@
                 {
                     "person" : {
                         "name" : "Phạm Thị Luyến",
-                        "gender" : "F"
+                        "gender" : "F",
+                        "id" : 1010,
+                        "slug" : "pham-thi-luyen"
                     }
                 },
                 {
                     "person" : {
                         "name" : "Phạm Văn Thanh",
-                        "gender" : "M"
+                        "gender" : "M",
+                        "id" : 1011,
+                        "slug" : "pham-van-thanh"
                     }
                 },
                 {
                     "person" : {
                         "name" : "Phạm Văn Minh",
-                        "gender" : "M"
+                        "gender" : "M",
+                        "id" : 1012,
+                        "slug" : "trieu-van-minh"
                     }, 
                     "spouse" : {
                         "name" : "Nguyễn Thị Bình",
-                        "gender" : "F"
+                        "gender" : "F",
+                        "id" : 2006,
+                        "slug" : "nguyen-thi-binh"
                     },
                     "children" : [
                         {
                             "person" : {
                                 "name" : "Phạm Tùng Anh",
-                                "gender" : "F"
+                                "gender" : "F",
+                                "id" : 1013,
+                                "slug" : "trieu-thi-tu"
                             }, 
                             "spouse" : {
                                 "name" : "Nguyễn Trường Giang",
-                                "gender" : "M"
+                                "gender" : "M",
+                                "id" : 2007,
+                                "slug" : "nguyen-truong-gian"
                             },
                             "children" : [
                                 {
                                     "person" : {
                                         "name" : "Nguyễn Thăng Long",
-                                        "gender" : "M"
+                                        "gender" : "M",
+                                        "id" : 2008,
+                                        "slug" : "nguyen-thang-long"
                                     }
                                 },
                                 {
                                     "person" : {
                                         "name" : "Phạm Thanh Nga",
-                                        "gender" : "F"
+                                        "gender" : "F",
+                                        "id" : 2009,
+                                        "slug" : "pham-thanh-nga"
                                     }
                                 },
                                 {
                                     "person" : {
                                         "name" : "Nguyễn Thanh Mai",
-                                        "gender": "F"
+                                        "gender": "F",
+                                        "id" : 2010,
+                                        "slug" : "nguyen-thanh-mai"
                                     }
                                 }
                             ]
@@ -133,7 +179,9 @@
                         {
                             "person" : {
                                 "name" : "Phạm Hoàng Linh",
-                                "gender" : "M"
+                                "gender" : "M",
+                                "id" : 1014,
+                                "slug" : "pham-hoang-linh"
                             }
                         }
                     ]
@@ -141,31 +189,41 @@
                 {
                     "person" : {
                         "name" : "Phạm Thị Liên",
-                        "gender" : "F"
+                        "gender" : "F",
+                        "id" : 1015,
+                        "slug" : "pham-thi-lien"
                     }, 
                     "spouse" : {
                         "name" : "Bùi Văn Hồng",
-                        "gender" : "M"
+                        "gender" : "M",
+                        "id" : 2011,
+                        "slug" : "trieu-thi-tu"
                     },
                     "children" : [
                         {
                             "person" : {
                                 "name" : "Bùi Hồng Phúc",
-                                "gender" : "M"
+                                "gender" : "M",
+                                "id" : 2012,
+                                "slug" : "bui-hong-phuc"
                             },
                             "spouse" : {
                                 "name": "Nguyễn Thị Ngọc Anh",
-                                "gender": "F"
+                                "gender": "F",
+                                "id" : 2013,
+                                "slug" : "trieu-thi-tu"
                             }
                         },
                         {
                             "person" : {
                                 "name" : "Bùi Minh Đức",
-                                "gender" : "M"
+                                "gender" : "M",
+                                "slug" : "bui-minh-duc"
                             },
                             "spouse" : {
                                 "name": "Tiêu Thu Hường",
-                                "gender" : "F"
+                                "gender" : "F",
+                                "slug": "tieu-thu-huong"
                             }
                         }
                     ]
@@ -173,27 +231,32 @@
                 {
                     "person" : {
                         "name" : "Phạm Văn Thuỷ",
-                        "gender" : "M"
+                        "gender" : "M",
+                        "slug" : "pham-van-thuy"
                     }, 
                     "spouse" : {
                         "name" : "Nguyễn Thị Thu Hằng",
-                        "gender" : "F"
+                        "gender" : "F",
+                        "slug" : "nguyen-thi-thu-hang"
                     },
                     "children" : [
                         {
                             "person" : {
                                 "name" : "Phạm Hoài Thu",
-                                "gender" : "F"
+                                "gender" : "F",
+                                "slug" : "pham-hoai-thu"
                             },
                             "spouse" : {
                                 "name" : "Phan Anh Tuấn",
-                                "gender" : "M"
+                                "gender" : "M",
+                                "slug" : "phan-anh-tuan"
                             }
                         },
                         {
                             "person" : {
                                 "name" : "Phạm Thu Hà",
-                                "gender" : "F"
+                                "gender" : "F",
+                                "slug" : "pham-thu-ha"
                             }
                         }
                     ]
@@ -201,23 +264,27 @@
                 {
                     "person" : {
                         "name" : "Phạm Văn Sơn",
-                        "gender" : "M"
+                        "gender" : "M",
+                        "slug": "pham-van-son"
                     }, 
                     "spouse" : {
                         "name" : "Đỗ Thị Thu Hằng",
-                        "gender" : "F"
+                        "gender" : "F",
+                        "slug": "do-thi-thu-hang"
                     },
                     "children" : [
                         {
                             "person" : {
                                 "name" : "Phạm Sơn Hải",
-                                "gender" : "M"
+                                "gender" : "M",
+                                "slug" : "pham-son-hai"
                             }
                         },
                         {
                             "person" : {
                                 "name" : "Phạm Thu Phương",
-                                "gender" : "F"
+                                "gender" : "F",
+                                "slug" : "pham-thu-phuong"
                             }
                         }
                     ]
@@ -227,77 +294,90 @@
         {
             "person" : {
                 "name" : "Phạm Văn Nghề",
-                "gender" : "M"
+                "gender" : "M",
+                "slug" : "pham-van-nghe"
             }
         },
         {
             "person" : {
                 "name" : "Phạm Thị Huệ",
-                "gender" : "F"
+                "gender" : "F",
+                "slug" : "pham-thi-hue"
             }, 
             "spouse" : {
                 "name" : "Trịnh Hữu Dũng",
-                "gender" : "M"
+                "gender" : "M",
+                "slug" : "trinh-huu-dung"
             },
             "children" : [
                 {
                     "person" : {
                         "name" : "Trịnh Thị Dĩnh",
-                        "gender" : "F"
+                        "gender" : "F",
+                        "slug" : "trinh-thi-dinh"
                     }
                 },
                 {
                     "person" : {
                         "name" : "Trịnh Thị Dung",
-                        "gender" : "F"
+                        "gender" : "F",
+                        "slug" : "trinh-thi-dung"
                     }
                 },
                 {
                     "person" : {
                         "name" : "Trịnh Văn Dục",
-                        "gender" : "M"
+                        "gender" : "M",
+                        "slug" : "trinh-van-duc"
                     }
                 },
                 {
                     "person" : {
                         "name" : "Trịnh Văn Dụ",
-                        "gender": "M"
+                        "gender": "M",
+                        "slug": "trinh-van-du"
                     }
                 },
                 {
                     "person" : {
                         "name" : "Trịnh Thị Dịu",
-                        "gender" : "F"
+                        "gender" : "F",
+                        "slug": "trinh-thi-diu"
                     }
                 },
                 {
                     "person" : {
                         "name" : "Trịnh Thị Hoa",
-                        "gender" : "F"
+                        "gender" : "F",
+                        "slug": "trinh thi hoa"
                     }
                 },
                 {
                     "person" : {
                         "name" : "Trịnh Thị Hồng",
-                        "gender" : "F"
+                        "gender" : "F",
+                        "slug": "trinh-thi-hong"
                     }
                 },
                 {
                     "person" : {
                         "name" : "Trịnh Thị Thắm",
-                        "gender" : "F"
+                        "gender" : "F",
+                        "slug": "trinh-thi-tham"
                     }
                 },
                 {
                     "person" : {
                         "name" : "Trịnh Thị Liễu",
-                        "gender" : "F"
+                        "gender" : "F",
+                        "slug": "trinh-thi-lieu"
                     }
                 },
                 {
                     "person" : {
                         "name" : "Trịnh Thị Đào",
-                        "gender" : "F"
+                        "gender" : "F",
+                        "slug": "trinh-thi-dao"
                     }
                 }
             ]
@@ -305,59 +385,69 @@
         {
             "person" : {
                 "name" : "Phạm Thị Gái",
-                "gender" : "F"
+                "gender" : "F",
+                "slug": "pham-thi-gai"
             }, 
             "spouse" : {
                 "name" : "Nguyễn Văn Với",
-                "gender" : "M"
+                "gender" : "M",
+                "slug": "pham-van-voi"
             },
             "children" : [
                 {
                     "person" : {
                         "name" : "Nguyễn Thị Mùi",
-                        "gender" : "F"
+                        "gender" : "F",
+                        "slug": "nguyen-thi-mui"
                     }
                 },
                 {
                     "person" : {
                         "name" : "Nguyễn Xuân Dục",
-                        "gender" : "M"
+                        "gender" : "M",
+                        "slug": "nguyen-xuan-duc"
                     }
                 },
                 {
                     "person" : {
                         "name" : "Nguyễn Ngọc Ninh",
-                        "gender" : "F"
+                        "gender" : "F",
+                        "slug": "nguyen-ngoc-ninh"
                     }
                 },
                 {
                     "person" : {
                         "name" : "Nguyễn Thị Thịnh",
-                        "gender": "F"
+                        "gender": "F",
+                        "slug": "nguyen-thi-thinh"
                     }
                 },
                 {
                     "person" : {
                         "name" : "Nguyễn Văn Vượng",
-                        "gender" : "M"
+                        "gender" : "M",
+                        "slug": "nguyen-van-vuong"
                     }
                 },
                 {
                     "person" : {
                         "name" : "Nguyễn Thị Phượng",
-                        "gender" : "F"
+                        "gender" : "F",
+                        "slug": "nguyen-thi-phuong"
                     }
                 },
                 {
                     "person" : {
                         "name" : "Nguyễn Thị Thu",
-                        "gender" : "F"
+                        "gender" : "F",
+                        "slug" : "nguyen-thi-thu"
                     }
                 },
                 {
                     "person" : {
                         "name" : "Nguyễn Thị The",
-                        "gender" : "F"
+                        "gender" : "F",
+                        "slug" : "nguyen-thi-the"
                     }
                 }
             ]
@@ -365,55 +455,65 @@
         {
             "person" : {
                 "name" : "Phạm Thị Định",
-                "gender" : "F"
+                "gender" : "F",
+                "slug": "pham-thi-dinh"
             }
         },
         {
             "person" : {
                 "name" : "Phạm Văn Liệu",
-                "gender" : "M"
+                "gender" : "M",
+                "slug": "pham-van-lieu"
             }, 
             "spouse" : {
                 "name" : "Trần Thị Nghĩa",
-                "gender" : "F"
+                "gender" : "F",
+                "slug": "tran-thi-nghia"
             },
             "children" : [
                 {
                     "person" : {
                         "name" : "Phạm Văn Tuấn",
-                        "gender" : "M"
+                        "gender" : "M",
+                        "slug": "pham-van-tuan"
                     }, 
                     "spouse" : {
                         "name" : "Trần Thị Bích Hằng",
-                        "gender" : "F"
+                        "gender" : "F",
+                        "slug": "tran-thi-bich-hang"
                     },
                     "children" : [
                         {
                             "person" : {
                                 "name" : "Phạm Tuấn Phong",
-                                "gender" : "M"
+                                "gender" : "M",
+                                "slug": "pham-tuan-phong"
                             }, 
                             "spouse" : {
                                 "name" : "Hoàng Thanh Hiếu",
-                                "gender" : "F"
+                                "gender" : "F",
+                                "slug": "hoang-thanh-hieu"
                             },
                             "children" : [
                                 {
                                     "person" : {
                                         "name" : "Phạm Hoàng Trúc Linh",
-                                        "gender" : "F"
+                                        "gender" : "F",
+                                        "slug": "pham-hoang-truc-linh"
                                     }
                                 },
                                 {
                                     "person" : {
                                         "name": "Phạm Hoàng Tú Linh",
-                                        "gender" : "F"
+                                        "gender" : "F",
+                                        "slug": "pham-hoang-tu-linh"
                                     }
                                 },
                                 {
                                     "person" : {
                                         "name": "Phạm Hoàng Thảo Linh",
-                                        "gender": "F"
+                                        "gender": "F",
+                                        "slug": "pham-hoang-thao-linh"
                                     }
                                 }
                             ]
@@ -421,17 +521,20 @@
                         {
                             "person" : {
                                 "name" : "Phạm Tuấn Phú",
-                                "gender" : "M"
+                                "gender" : "M",
+                                "slug": "pham-tuan-phu"
                             },
                             "spouse" : {
                                 "name" : "Nguyễn Thị Thuý",
-                                "gender" : "F"
+                                "gender" : "F",
+                                "slug": "nguyen-thi-thuy"
                             },
                             "children" : [
                                 {
                                     "person" : {
                                         "name" : "Phạm Nguyễn Thảo Nguyên",
-                                        "gender" : "F"
+                                        "gender" : "F",
+                                        "slug": "pham-thao-nguyen"
                                     }
                                 }
                             ]
@@ -441,23 +544,27 @@
                 {
                     "person" : {
                         "name" : "Phạm Thị Hằng",
-                        "gender" : "F"
+                        "gender" : "F",
+                        "slug": "pham-thi-hang"
                     },
                     "spouse" : {
                         "name" : "Trần Văn Thắng",
-                        "gender" : "M"
+                        "gender" : "M",
+                        "slug": "tran-van-thang"
                     },
                     "children" : [
                         {
                             "person" : {
                                 "name" : "Trần Thị Mỹ Hạnh",
-                                "gender" : "F"
+                                "gender" : "F",
+                                "slug" : "tran-thi-my-hanh"
                             }
                         },
                         {
                             "person" : {
                                 "name" : "Trần Minh Đức",
-                                "gender" : "M"
+                                "gender" : "M",
+                                "slug": "tran-minh-duc"
                             }
                         }
                     ]
@@ -467,7 +574,8 @@
         {
             "person" : {
                 "name" : "Phạm Văn Lục",
-                "gender" : "M"
+                "gender" : "M",
+                "slug": "pham-van-luc"
             }
         }
     ]
